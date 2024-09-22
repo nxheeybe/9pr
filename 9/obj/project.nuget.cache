@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "5jL2Sa4JDjQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RedmiBook\\Downloads\\9pr-master\\9pr-master\\9\\9.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RedmiBook\\.nuget\\packages\\customselectfiledlg\\1.0.0\\customselectfiledlg.1.0.0.nupkg.sha512",
+    "C:\\Users\\RedmiBook\\.nuget\\packages\\harfbuzzsharp\\2.6.1.5\\harfbuzzsharp.2.6.1.5.nupkg.sha512",
+    "C:\\Users\\RedmiBook\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\RedmiBook\\.nuget\\packages\\spire.doc\\12.6.1\\spire.doc.12.6.1.nupkg.sha512",
+    "C:\\Users\\RedmiBook\\.nuget\\packages\\spire.xls\\14.5.3\\spire.xls.14.5.3.nupkg.sha512",
+    "C:\\Users\\RedmiBook\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\RedmiBook\\.nuget\\packages\\system.formats.asn1\\6.0.0\\system.formats.asn1.6.0.0.nupkg.sha512",
+    "C:\\Users\\RedmiBook\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\RedmiBook\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\RedmiBook\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\RedmiBook\\.nuget\\packages\\system.security.cryptography.pkcs\\6.0.0\\system.security.cryptography.pkcs.6.0.0.nupkg.sha512",
+    "C:\\Users\\RedmiBook\\.nuget\\packages\\system.security.cryptography.xml\\6.0.0\\system.security.cryptography.xml.6.0.0.nupkg.sha512",
+    "C:\\Users\\RedmiBook\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\RedmiBook\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512",
+    "C:\\Users\\RedmiBook\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\RedmiBook\\.nuget\\packages\\windowsapicodepack.shell.commonfiledialogs\\1.1.5\\windowsapicodepack.shell.commonfiledialogs.1.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

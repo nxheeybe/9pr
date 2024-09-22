@@ -1,0 +1,8 @@
+C:\Users\RedmiBook\Downloads\9pr-master\9pr-master\9\obj\Debug\net8.0-windows\9.csproj.AssemblyReference.cache
+C:\Users\RedmiBook\Downloads\9pr-master\9pr-master\9\obj\Debug\net8.0-windows\ExcelWindow.g.cs
+C:\Users\RedmiBook\Downloads\9pr-master\9pr-master\9\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\RedmiBook\Downloads\9pr-master\9pr-master\9\obj\Debug\net8.0-windows\SendEmail.g.cs
+C:\Users\RedmiBook\Downloads\9pr-master\9pr-master\9\obj\Debug\net8.0-windows\SendEmail2.g.cs
+C:\Users\RedmiBook\Downloads\9pr-master\9pr-master\9\obj\Debug\net8.0-windows\WordWindow.g.cs
+C:\Users\RedmiBook\Downloads\9pr-master\9pr-master\9\obj\Debug\net8.0-windows\9_MarkupCompile.cache
+C:\Users\RedmiBook\Downloads\9pr-master\9pr-master\9\obj\Debug\net8.0-windows\9_MarkupCompile.lref
